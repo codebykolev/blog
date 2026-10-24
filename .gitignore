@@ -31,3 +31,7 @@ public/pagefind
 
 # docker compose
 compose.override.yaml
+
+# frontmatter
+.frontmatter/*
+!.frontmatter/database
