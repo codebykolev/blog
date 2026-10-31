@@ -52,6 +52,16 @@
           "title": "featured",
           "name": "featured",
           "type": "boolean"
+        },
+        {
+          "title": "ogImage",
+          "name": "ogImage",
+          "type": "image"
+        },
+        {
+          "title": "fmContentType",
+          "name": "fmContentType",
+          "type": "string"
         }
       ]
     }
